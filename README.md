@@ -34,5 +34,5 @@ Schedules account for employee availability, time-off requests, roles and skills
 
 ## Project Details
 
-- **Budget:** $80,000
-- **Timeline:** 16 weeks
+- **Budget:** 
+- **Timeline:** 
