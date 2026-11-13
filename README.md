@@ -1,7 +1,7 @@
 # ShiftSync
 
 **Constraint-Based Employee Scheduling System**  
-SEG4105 term project · Phase 2: Design Deliverables · Group: [Group number]
+SEG4105 term project · Phase 2: Design Deliverables · Group: 19
 
 ## Overview
 
